@@ -1,3 +1,2 @@
 # Image-Processing-and-Convolutional-Operations
-<br>
 In this file, convolutional operations are performed on image by using various kernels. All tasks showcases the versatility of the convolution operation for tasks like blurring, edge detection, and sharpening. Different kernels such as Sobel, Gaussian, Average, Prewitt and Laplacian are compared. The results of all kernels are compared with each other. Different operations are performed on image to remove noise. Visualizations help to understand the impact of different convolution kernels on the input image.
